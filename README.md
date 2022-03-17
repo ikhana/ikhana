@@ -4,7 +4,8 @@ My name is Inaam Ullah I'm from Quetta, Pakistan
 Here are some ideas to know me more.
 
 🔭 I’m currently exploring modern fullstack,serverless techs with @PanaCloud which is a multi tenant API Ownership platform in Pakistan.
-🌱 I’m currently learning Front-End Development,fullstack and serverless
+🌱 I’m currently learning Front-End Development,fullstack and serverless but working since two years as fullstack block chain developer.
+
 👯 I’m looking to collaborate on any project of your dream
 🤔 I’m looking for help with ideas and suggestions to learn development
 💬 Ask me about anything you like to know
