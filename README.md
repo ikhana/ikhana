@@ -3,6 +3,7 @@ My name is Inaam Ullah I'm from Quetta, Pakistan
 
 Here are some ideas to know me more.
 
+🔭 I’m block chain developer working as full stack as slodity for smart contracts, web3/ethres.js for integration and React for Front-end Development.
 🔭 I’m currently exploring modern fullstack,serverless techs with @PanaCloud which is a multi tenant API Ownership platform in Pakistan.
 🌱 I’m currently learning Front-End Development,fullstack and serverless but working since two years as fullstack block chain developer.
 
