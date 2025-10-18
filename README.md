@@ -1,21 +1,29 @@
-# Inaam Ullah | Blockchain & Full-Stack Developer
+# Inaam Ullah | Payload CMS & Next.js Developer
 
-### About Me
-Dedicated blockchain developer specializing in full-stack Solidity development, web3/ethers.js integration, and React front-end solutions. Currently advancing multi-tenant API technologies at @PanaCloud, Pakistan's leading blockchain innovation hub.
+Full-stack developer specializing in Payload CMS development, Next.js applications, and modern TypeScript architecture. Currently building scalable digital solutions at BrandBloom, focusing on headless CMS implementations and custom web applications.
 
-### Core Competencies
-- Smart Contract Development (Solidity)
-- Web3 Integration & dApp Development
-- Full-Stack Development
-- Modern Serverless Architecture
-- React.js Ecosystem
+## Technical Expertise
 
-### Current Focus
-Expanding expertise in serverless architectures and cutting-edge blockchain technologies while contributing to innovative Web3 solutions.
+**Primary Stack**
+- Payload CMS (Headless CMS Architecture, Custom Plugins, Content Modeling)
+- Next.js (App Router, Server Components, API Routes)
+- TypeScript (Type-safe Development, Advanced Patterns)
+- Node.js & MongoDB (Backend Development, Database Design)
 
-### Let's Connect
-📧 inaa.eth@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/inaam-ullah/)
-🌐 [Portfolio](https://edevme.netlify.app/)
+**Full-Stack Development**
+- React.js & Modern Frontend Architecture
+- REST & GraphQL APIs
+- Serverless Architecture & Cloud Solutions
+- Responsive Web Design & Performance Optimization
 
-*Open to collaboration on blockchain and full-stack projects that push technological boundaries.*
+**Background**: Previously specialized in blockchain development (Solidity, Web3.js, dApp architecture).
+
+## Current Focus
+
+Advancing expertise in Payload CMS ecosystem and Next.js 15 features while delivering production-grade headless CMS solutions for businesses scaling their digital presence.
+
+## Connect
+
+inaa.eth@gmail.com | [LinkedIn](https://www.linkedin.com/in/inaam-ullah/) | [Portfolio](https://edevme.netlify.app/)
+
+Available for Payload CMS development roles and full-stack TypeScript positions.
