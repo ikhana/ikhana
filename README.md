@@ -20,20 +20,102 @@ Before web, I spent two years in Solidity / EVM work — ERC-20/721/1155 contrac
 
 ## Selected production work on Payload + Next.js
 
-All built and shipped (with a couple of edge cases that taught me things):
+All built and shipped (with a couple of edge cases that taught me things).
 
-- **[QuickContact.ai](https://www.quickcontact.ai)** — SaaS marketing site for an AI voice-agent platform
-- **[QuickContact Portal](https://portal.quickcontact.ai)** — separate full-stack portal running an AI voice agent in 32 languages (Node, Express, Vite, React)
-- **[SGT Infinity Designs](https://sgtinfinitydesigns.com)** — custom e-commerce on Payload (cart, checkout, order management, product configurator, all custom)
-- **[Brad's Buford](https://bradsbuford.vercel.app)** — second e-commerce storefront on the same custom Payload foundation
-- **[New Birth Labs](https://www.newbirthlabs.com)** — medical lab booking with Stripe, calculator, coupons, native/GHL toggle
-- **[Top Cleaning](https://www.topcleaningteam.com)** — service-business platform with multi-service booking
-- **[Twenty20 Financial](https://www.thetwenty20financial.com)** — financial advisory
-- **[Mazco LLC](https://www.mazcollc.com)** — financial advisory with HubSpot integration
-- **[Marshall Strategies](https://www.marshallstrategiesllc.com)** — financial advisory rebuild
-- **[Boiler Room Entertainment](https://boiler-room-six.vercel.app)** — audio production agency
-- **[JIH Works](https://www.jihworks.com)** — marketing agency
-- **[RNJ Media](https://rnj-media.vercel.app)** — Payload-based blog platform
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="https://www.quickcontact.ai" target="_blank">
+<img src="https://api.microlink.io/?url=https://www.quickcontact.ai&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="QuickContact.ai">
+<br><b>QuickContact.ai</b>
+</a>
+<br><sub>SaaS marketing site for an AI voice-agent platform</sub>
+</td>
+<td width="33%" align="center">
+<a href="https://portal.quickcontact.ai" target="_blank">
+<img src="https://api.microlink.io/?url=https://portal.quickcontact.ai&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="QuickContact Portal">
+<br><b>QuickContact Portal</b>
+</a>
+<br><sub>Customer portal running an AI voice agent in 32 languages (Node, Express, Vite, React)</sub>
+</td>
+<td width="33%" align="center">
+<a href="https://sgtinfinitydesigns.com" target="_blank">
+<img src="https://api.microlink.io/?url=https://sgtinfinitydesigns.com&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="SGT Infinity Designs">
+<br><b>SGT Infinity Designs</b>
+</a>
+<br><sub>Custom e-commerce on Payload (cart, checkout, order management, product configurator)</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://bradsbuford.vercel.app" target="_blank">
+<img src="https://api.microlink.io/?url=https://bradsbuford.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Brad's Buford">
+<br><b>Brad's Buford</b>
+</a>
+<br><sub>Second e-commerce storefront on the same custom Payload foundation</sub>
+</td>
+<td align="center">
+<a href="https://www.newbirthlabs.com" target="_blank">
+<img src="https://api.microlink.io/?url=https://www.newbirthlabs.com&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="New Birth Labs">
+<br><b>New Birth Labs</b>
+</a>
+<br><sub>Medical lab booking with Stripe, calculator, coupons, native/GHL toggle</sub>
+</td>
+<td align="center">
+<a href="https://www.topcleaningteam.com" target="_blank">
+<img src="https://api.microlink.io/?url=https://www.topcleaningteam.com&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Top Cleaning">
+<br><b>Top Cleaning</b>
+</a>
+<br><sub>Service-business platform with multi-service booking</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://www.thetwenty20financial.com" target="_blank">
+<img src="https://api.microlink.io/?url=https://www.thetwenty20financial.com&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Twenty20 Financial">
+<br><b>Twenty20 Financial</b>
+</a>
+<br><sub>Financial advisory site</sub>
+</td>
+<td align="center">
+<a href="https://www.mazcollc.com" target="_blank">
+<img src="https://api.microlink.io/?url=https://www.mazcollc.com&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Mazco LLC">
+<br><b>Mazco LLC</b>
+</a>
+<br><sub>Financial advisory with HubSpot integration</sub>
+</td>
+<td align="center">
+<a href="https://www.marshallstrategiesllc.com" target="_blank">
+<img src="https://api.microlink.io/?url=https://www.marshallstrategiesllc.com&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Marshall Strategies">
+<br><b>Marshall Strategies</b>
+</a>
+<br><sub>Financial advisory rebuild</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://boiler-room-six.vercel.app" target="_blank">
+<img src="https://api.microlink.io/?url=https://boiler-room-six.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="Boiler Room Entertainment">
+<br><b>Boiler Room Entertainment</b>
+</a>
+<br><sub>Audio production agency</sub>
+</td>
+<td align="center">
+<a href="https://www.jihworks.com" target="_blank">
+<img src="https://api.microlink.io/?url=https://www.jihworks.com&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="JIH Works">
+<br><b>JIH Works</b>
+</a>
+<br><sub>Marketing agency</sub>
+</td>
+<td align="center">
+<a href="https://rnj-media.vercel.app" target="_blank">
+<img src="https://api.microlink.io/?url=https://rnj-media.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="100%" alt="RNJ Media">
+<br><b>RNJ Media</b>
+</a>
+<br><sub>Payload-based blog platform</sub>
+</td>
+</tr>
+</table>
 
 ---
 
