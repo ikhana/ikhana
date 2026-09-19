@@ -26,3 +26,10 @@ All Payload + Next.js + TypeScript.
 - https://www.jihworks.com
 - https://boiler-room-six.vercel.app
 - https://bradsbuford.vercel.app
+- https://rnj-media.vercel.app
+
+### Contact
+
+inaa.eth@gmail.com · [LinkedIn](https://www.linkedin.com/in/inaam-ullah/) · [Portfolio](https://edevme.netlify.app/)
+
+Open to Payload CMS and Next.js / TypeScript roles, remote, with agencies and product teams.
