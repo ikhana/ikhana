@@ -2,7 +2,7 @@
 
 Full-stack developer. Payload CMS, Next.js, TypeScript.
 
-I lead development at [BrandBloom](https://brandbloom.org), a US agency. In the last two years I have built and shipped about twelve production sites and platforms there, across SaaS, e-commerce, finance, medical and service businesses. BrandBloom's own site runs on Payload too; I moved it off WordPress in September 2026.
+I lead development at [BrandBloom](https://brandbloom.org), a US agency, where I have built and shipped about twelve production sites and platforms across SaaS, e-commerce, finance, medical and service businesses.
 
 Before web I spent two years on Solidity and EVM work: ERC-20, 721 and 1155 contracts, NFT marketplaces and trading SDKs. In 2024 I built a Telegram mini-app on Solana on my own.
 
